@@ -1,23 +1,7 @@
 ----------------------------------------------------------------
-Sun Jun 14 13:33:41 IST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-b1da-ffe3-000001b86020 
-on database directory memory:G:\sts-4.6.1.RELEASE\libmgnt\libmgnt\5065c4c2-0723-4a9c-a3ea-d07f68c3eaea with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
-Loaded from file:/C:/Users/Amar/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=13.0.2+8
-user.dir=G:\sts-4.6.1.RELEASE\libmgnt\libmgnt
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Sun Jun 14 13:34:48 IST 2020:
-Shutting down instance a816c00e-0172-b1da-ffe3-000001b86020 on database directory memory:G:\sts-4.6.1.RELEASE\libmgnt\libmgnt\5065c4c2-0723-4a9c-a3ea-d07f68c3eaea with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
-----------------------------------------------------------------
-Sun Jun 14 13:34:50 IST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 176240b2-0172-b1da-ffe3-000001b86020 
-on database directory memory:G:\sts-4.6.1.RELEASE\libmgnt\libmgnt\73b8a659-6faa-42f2-9f24-7df1e924e7ec with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Sun Jun 14 20:44:06 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-b365-1231-000001936c40 
+on database directory memory:G:\sts-4.6.1.RELEASE\libmgnt\libmgnt\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
 Loaded from file:/C:/Users/Amar/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=13.0.2+8

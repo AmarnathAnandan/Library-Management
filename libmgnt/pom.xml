@@ -42,7 +42,6 @@
 			<version>2.2.2.RELEASE</version>
 		</dependency>
 
-
 		<dependency>
 			<groupId>org.apache.derby</groupId>
 			<artifactId>derby</artifactId>
